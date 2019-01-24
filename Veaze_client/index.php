@@ -41,7 +41,7 @@ require("core/getData.php");
                                                 <div class="clearfix">
                                                     <div class="float-left  mt-2">
                                                         <span class="text-warning ">
-															<i class="si si-basket-loaded "></i>
+															<img src="assets/images/brand/request.png" style="height: 60px;"/>
 														</span>
                                                     </div>
                                                     <div class="float-right text-right">
@@ -61,7 +61,7 @@ require("core/getData.php");
                                                 <div class="clearfix">
                                                     <div class="float-left  mt-2">
                                                         <span class="text-success ">
-															<i class="si si-credit-card "></i>
+															<img src="assets/images/brand/balance.png" style="height: 60px;"/>
 														</span>
                                                     </div>
                                                     <div class="float-right text-right">
@@ -81,7 +81,7 @@ require("core/getData.php");
                                                 <div class="clearfix">
                                                     <div class="float-left  mt-2">
                                                         <span class="text-info ">
-															<i class="si si-chart"></i>
+															<img src="assets/images/brand/profit.png" style="height: 60px;"/>
 														</span>
                                                     </div>
                                                     <div class="float-right text-right">
@@ -101,12 +101,12 @@ require("core/getData.php");
                                                 <div class="clearfix">
                                                     <div class="float-left  mt-2">
                                                         <span class="text-primary ">
-															<i class="si si-social-facebook "></i>
+														<img src="assets/images/brand/current-price.png" style="height: 60px;"/>
 														</span>
                                                     </div>
                                                     <div class="float-right text-right">
-                                                        <p class="card-text text-muted font-weight-semibold mb-1">Followers</p>
-                                                        <h2>65K</h2>
+                                                        <p class="card-text text-muted font-weight-semibold mb-1">Current Plan</p>
+                                                        <h2>$99</h2>
                                                     </div>
                                                 </div>
                                                 <div class="card-footer p-0">
