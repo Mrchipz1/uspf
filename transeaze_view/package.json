@@ -1,0 +1,23 @@
+{
+  "name": "TransEaze",
+  "version": "1.0.0",
+  "description": "Transaction made Easy",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "AngularJs"
+  ],
+  "author": "FSD",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.18",
+    "angular": "^1.7.2",
+    "sweetalert": "^2.1.0"
+  }
+}
