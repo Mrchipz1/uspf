@@ -1,0 +1,31 @@
+#welcome {
+    margin: auto;
+    margin-top: 7%;
+}
+
+#waiting {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#info {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+#thumb {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+}
+
+#footer {
+  height: 50px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 150;
+  bottom: 0;
+  width: 100%;
+}
