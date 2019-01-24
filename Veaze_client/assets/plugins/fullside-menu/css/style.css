@@ -81,7 +81,7 @@
 }
 #sidebar:before{
 	content:'';
-	background:rgba(56, 64, 86,0.9);
+	background:#64BEC1;
 	position:absolute;
 	width:100%;
 	height:100%;
@@ -110,7 +110,7 @@
 	color:#8c8c8c;
 }
 #sidebar ul.collapse li a:hover{
-	color:#9f78ff;
+	color:#2c304d;
 }
 #sidebar ul.collapse.show li.active>a:hover{
 	color:#fff;
