@@ -21081,7 +21081,7 @@ div.conv-form-wrapper div#messages div.message.from {
 	color: #2c304d;
 }
 #sidebar ul li.active>a:hover {
-	background: #6d4dbb;
+	background: #2c304d !important;
 	color: #fff;
 }
 .overflow-hidden{
