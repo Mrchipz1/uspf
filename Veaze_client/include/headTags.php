@@ -9,8 +9,8 @@
 				<meta name="mobile-web-app-capable" content="yes">
 				<meta name="HandheldFriendly" content="True">
 				<meta name="MobileOptimized" content="320">
-				<link rel="icon" href="favicon.ico" type="image/x-icon"/>
-				<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+				<link rel="icon" href="assets/images/brand/logo-transeaze.png" type="image/x-icon"/>
+				<link rel="shortcut icon" type="image/x-icon" href="assets/images/brand/logo-transeaze.png" />
 
 				<!-- Title -->
 				<title>Transeaze</title>
