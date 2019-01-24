@@ -1,7 +1,7 @@
 <?php
 
 
-session_start();
+// session_start();
 //session_unset();
 $_SESSION['id'] = 1;
 
