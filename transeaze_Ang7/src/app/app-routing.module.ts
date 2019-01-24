@@ -6,6 +6,7 @@ import { BankComponent } from './views/bank/bank.component';
 import { InvoiceComponent } from './views/invoice/invoice.component';
 
 const routes: Routes = [
+  {path:'',pathMatch:'full',redirectTo:'home'},
   {path:'home',component:HomeComponent},
   {path:'details',component:DetailsComponent},
   {path:'bank',component:BankComponent},
