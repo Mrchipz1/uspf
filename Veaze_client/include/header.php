@@ -2,7 +2,7 @@
 						<div class="container-fluid">
 							<div class="d-flex">
 								<a class="header-brand" href="index.html">
-									<img src="assets/images/brand/logo.png" class="header-brand-img" alt="Plight logo">
+									<img src="assets/images/brand/logo-transeaze.png" class="header-brand-img" alt="Plight logo">
 								</a>
 								<div class="menu-toggle-button">
 									<a class="nav-link wave-effect" href="#" id="sidebarCollapse">

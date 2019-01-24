@@ -13,7 +13,7 @@
 				<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
 				<!-- Title -->
-				<title>Comfirm</title>
+				<title>Transeaze</title>
 				<link rel="stylesheet" href="assets/fonts/fonts/font-awesome.min.css">
 
 			<!-- Font Family-->
