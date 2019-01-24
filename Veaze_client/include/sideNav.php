@@ -2,12 +2,12 @@
 							<ul class="list-unstyled components" id="accordion">
 								<div class="user-profile">
 									<div class="dropdown user-pro-body">
-										<div><img src="assets/images/Profile.jpg" alt="user-img" class="img-circle"></div>
+										<!-- <div><img src="assets/images/Profile.jpg" alt="user-img" class="img-circle"></div> -->
 										<div class="mb-2"><a href="#" class="" data-toggle="" aria-haspopup="true" aria-expanded="false"> <span class="font-weight-semibold"></span>  </a>
 										<br><span class="text-gray"></span>
 										</div>
-										<a href="#" title="settings" class="user-button"><i class="fa fa-cogs"></i></a>
-										<a href="#" title="logout" class="user-button"><i class="fa fa-sign-out"></i></a>
+										<!-- <a href="#" title="settings" class="user-button"><i class="fa fa-cogs"></i></a>
+										<a href="#" title="logout" class="user-button"><i class="fa fa-sign-out"></i></a> -->
 									</div>
 								</div>
 
