@@ -1,4 +1,4 @@
-< ? php
+<? php
 
 if (!Session::exists('id')) {
     Redirect::to('login-log.html');
@@ -27,4 +27,4 @@ $Totalincome = $TI - > results();
 //print_r($Transactions=$TR->results());
 //echo count($Transactions);
 
-
+?>
